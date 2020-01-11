@@ -1,1 +1,5 @@
+#!/bin/sh
+#
+# uname -s = Linux | OpenBSD | FreeBSD
+# uname -m = i636 or x86_64
 
